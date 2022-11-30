@@ -1,5 +1,8 @@
 
 # Weidentity Docker 快速体验
+
+项目地址： https://github.com/idefa/weid-docker-compose
+
 版本说明
 --------
 * Fisco bcos版本 2.9.0
